@@ -415,6 +415,7 @@ void makeGhost() {
 
 int main() 
 {
+	system("chcp 949");
 	system("title tetris");
 	int minoIndex = 0;
 
